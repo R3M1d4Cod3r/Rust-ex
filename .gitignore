@@ -1,9 +1,7 @@
-.vscode
+./.vscode/launch.json
 # Ignore all
 *
-
 # Unignore all with extensions
 !*.*
 
-# Unignore all dirs
-!*/
+./*/src/target
