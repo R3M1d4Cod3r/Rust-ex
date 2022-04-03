@@ -1,7 +1,6 @@
-./.vscode/launch.json
+.vscode
 # Ignore all
 *
 # Unignore all with extensions
-!*.*
-
-./*/src/target
+!*.rs
+!*.toml
